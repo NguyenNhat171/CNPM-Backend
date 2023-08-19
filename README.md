@@ -1,2 +1,2 @@
-# Web-Electronic-Shop-Backend
-Electronic components trading website, using MongoDB
+# Web-Office-Shop-Backend
+Office components trading website, using MongoDB
